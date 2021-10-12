@@ -4,7 +4,7 @@ from time import sleep
 
 
 def randomico():
-    return randint(1, 3)
+    return randint(3, 7)
 
 
 class ChromeAuto:
